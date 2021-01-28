@@ -1,0 +1,33 @@
+.bodyImage{
+    background-color:#151616
+}
+.menu{
+    background-color:rgb(0, 0, 0);
+    display:flex;
+    justify-content: space-between;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+}
+.grid img{
+    border:2px solid black;
+    border-radius:5px
+}
+h3{
+    color:white
+}
+p{
+    color:white
+}
+.item{
+    border-radius:20px;
+    background-color: white;
+    width:310px;
+    font-family: fantasy;
+}
